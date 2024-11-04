@@ -8,7 +8,7 @@ const BastDeals = () => {
       <div className="flex flex-col items-center py-6">
         <div className="text-center mb-8">
           <h1 className="mb-4 text-2xl font-semibold">Shop the Best Deals</h1>
-          <p className="text-lg font-bold">Discover Your Perfect Product Today!</p>
+          <p className="text-lg">Discover Your Perfect Product Today!</p>
         </div>
 
         <div className="flex flex-col sm:flex-row justify-center space-y-6 sm:space-y-0 sm:space-x-6 px-4">

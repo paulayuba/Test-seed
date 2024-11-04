@@ -10,7 +10,7 @@ const Find = () => {
       </div>
 
       {/* Cards Container */}
-      <div className="flex flex-wrap gap-6">
+      <div className="flex justify-center flex-wrap gap-6">
         {/* First Card */}
         <div className="w-full md:w-1/2 p-4">
           <img
