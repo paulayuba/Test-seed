@@ -2,7 +2,7 @@ import React from 'react';
 
 const Nav = () => {
   return (
-    <div className="mb-10">
+    <div className="bg-black text-white mb-10">
       <div className="container mx-auto px-4">
         
           <ul className="flex space-x-6 py-4 justify-around mb-8">
@@ -15,7 +15,7 @@ const Nav = () => {
             <li className="cursor-pointer">Categories</li>
             <li className="cursor-pointer">About Us</li>
             <li className="cursor-pointer">Contact</li>
-            <li className="bg-yellow-200 px-4 py-2 rounded-md border border-blue-500 cursor-pointer">
+            <li className="bg-yellow-200 px-4 py-2 rounded-md border border-blue-500 text-black cursor-pointer">
               Get Started
             </li>
             </nav>

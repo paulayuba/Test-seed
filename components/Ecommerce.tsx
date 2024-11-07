@@ -5,7 +5,8 @@ const Ecommerce = () => {
     <div className="flex flex-col lg:flex-row items-center justify-between p-8 min-h-screen">
       {/* Left side */}
       <div className="w-full h-[500px] lg:w-1/2 flex justify-center mb-8 lg:mb-0">
-        <img src="https://s3-alpha-sig.figma.com/img/84d2/d129/55a356a89d355afe888a1943285c9ff7?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Mbvxt7YdXGVBrFiprZDGZKomt7KNz56KVvFPH3ZylV9PbZ7kMrB-h8a2j8GXWoBmY-157X-ZKNAgT~t7lSgQrIK9WlEZtNgCvN4Fr-28R~YxPaR-N0vlqgeXkvAAD0dm-fWOgXAxVOkHLdbEaLUCcRt-vJ9~f~z9JvBXkFsynbSHTg3PRb013kO5nKOIoGWdAMel561mkdvTn-3uH-rr2pU5XEnUykiYw3du~qfD5FmujJzCPXHO929mrewDK2Aikv3qSGVvPbukAP4nd76Ph-YM0CqT47x4YmkdcrIL6VPrQeU2s0Ct0NNIHCfxYGXXX87vIIxOSdkHfH~aFk-80w__" alt=""/>
+        <img src="https://s3-alpha-sig.figma.com/img/84d2/d129/55a356a89d355afe888a1943285c9ff7?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Mbvxt7YdXGVBrFiprZDGZKomt7KNz56KVvFPH3ZylV9PbZ7kMrB-h8a2j8GXWoBmY-157X-ZKNAgT~t7lSgQrIK9WlEZtNgCvN4Fr-28R~YxPaR-N0vlqgeXkvAAD0dm-fWOgXAxVOkHLdbEaLUCcRt-vJ9~f~z9JvBXkFsynbSHTg3PRb013kO5nKOIoGWdAMel561mkdvTn-3uH-rr2pU5XEnUykiYw3du~qfD5FmujJzCPXHO929mrewDK2Aikv3qSGVvPbukAP4nd76Ph-YM0CqT47x4YmkdcrIL6VPrQeU2s0Ct0NNIHCfxYGXXX87vIIxOSdkHfH~aFk-80w__" alt=""
+        className='w-[500px]'/>
       </div>
 
       {/* Right side */}

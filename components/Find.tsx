@@ -35,7 +35,7 @@ const Find = () => {
       </div>
 
       {/* Additional Cards */}
-      <div className="flex px-52 gap-6 mt-6">
+      <div className="flex px-80">
         {/* Third Card */}
         <div className="w-full md:w-1/2 p-4">
           <img
@@ -46,7 +46,6 @@ const Find = () => {
           <h1 className="text-xl font-semibold mb-2">Home Essentials Deals</h1>
           <p className="text-gray-600">Stylish, Affordable Items</p>
         </div>
-
         {/* Fourth Card */}
         <div className="w-full md:w-1/2 p-4">
           <img

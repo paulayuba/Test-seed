@@ -1,10 +1,9 @@
 
 import BastDeals from "@/components/BastDeals";
-
 import Ecommerce from "@/components/Ecommerce";
 import Find from "@/components/Find";
 import Footer from "@/components/Footer";
-import Header from "@/components/Header";
+import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar"
 import Pricing from "@/components/Pricing";
 import ProductGategories from "@/components/ProductGategories";
@@ -15,7 +14,7 @@ export default function Home() {
   return (
 <div>
   <Navbar />
-  <Header />
+  <Hero />
   <Pricing />
   <BastDeals />
   <Shoping />
